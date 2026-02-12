@@ -1,0 +1,673 @@
+<Database>
+	<GameDBStringTable ID="LOC_TH_ADDON_OTOR_DIAGNOSES">
+	<LanguageCode>th</LanguageCode>
+	<LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+	<Contributors>
+	<Name>TonWazza</Name>
+	</Contributors>
+	
+	<LocalizedStrings>
+	  <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSN</LocID>                         
+		 <Text>ไซนัสอักเสบเรื้อรัง</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSN_DESCRIPTION</LocID>             
+		 <Text>ไซนัสอักเสบเป็นภาวะที่โพรงไซนัสอักเสบเนื่องจากการติดเชื้อหรือภูมิแพ้ แต่ในกรณีของไซนัสอักเสบเรื้อรัง การอักเสบของไซนัสจะกินเวลานานกว่า 3 เดือน ในกรณีนี้เกิดจากภูมิแพ้หรือสภาวะอื่นๆ เช่น โรคหวัด หรือหลอดลมอักเสบ การรักษาสำหรับภาวะนี้คือการล้างจมูกด้วยน้ำเกลือและใช้สเปรย์สเตียรอยด์พ่นจมูกเพื่อลดการอักเสบ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSP</LocID>                         
+		 <Text>ไซนัสอักเสบเรื้อรังร่วมกับริดสีดวงจมูก</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSP_DESCRIPTION</LocID>             
+		 <Text>ไซนัสอักเสบเรื้อรังที่มีสาเหตุมาจาก Nasal polyposis ซึ่งเป็นภาวะที่มีติ่งเนื้อ (Polyp) เกิดขึ้นในโพรงจมูกเนื่องจากภูมิแพ้ ไข้หวัดใหญ่ หอบหืด หรือโรคซิสติกไฟโปรซิส ซึ่งมักต้องใช้น้ำเกลือและสเปรย์สเตียรอยด์พ่นจมูก และในบางกรณีต้องผ่าตัด การรักษาสำหรับภาวะนี้คือการผ่าตัดไซนัสผ่านกล้องเพื่อนำติ่งเนื้อออก ร่วมกับการใช้น้ำเกลือและสเปรย์สเตียรอยด์พ่นจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ASN</LocID>                         
+	 	 <Text>ไซนัสอักเสบจากภูมิแพ้</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ASN_DESCRIPTION</LocID>             
+		 <Text>ภาวะไซนัสอักเสบ ในกรณีนี้มีสาเหตุมาจากภูมิแพ้ และการรักษาคือการใช้ยาแก้แพ้ (Antihistamines)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ENS</LocID>                         
+		 <Text>กลุ่มอาการจมูกโล่ง (Empty Nose Syndrome)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ENS_DESCRIPTION</LocID>             
+		 <Text>Empty nose syndrome (ENS) เป็นรูปแบบหนึ่งของเยื่อบุจมูกฝ่อทุติยภูมิ เป็นกลุ่มอาการทางคลินิกที่ผู้คนที่มีโพรงจมูกโล่งกลับรู้สึกถึงอาการต่างๆ ที่พบบ่อยที่สุดคือความรู้สึกคัดจมูก จมูกแห้งและมีสะเก็ด และรู้สึกเหมือนหายใจไม่ออก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_NAR</LocID>                         
+		 <Text>โรคจมูกอักเสบชนิดไม่แพ้</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_NAR_DESCRIPTION</LocID>             
+		 <Text>โรคจมูกอักเสบชนิดไม่แพ้ (Non-allergic rhinitis) เกี่ยวข้องกับการจามเรื้อรัง หรือคัดจมูก น้ำมูกไหลโดยไม่มีสาเหตุชัดเจน อาการคล้ายกับโรคแพ้อากาศ แต่ไม่พบหลักฐานของปฏิกิริยาภูมิแพ้ มักพบในผู้ที่มีอายุมากกว่า 20 ปี ตัวกระตุ้นอาจรวมถึงกลิ่น สารระคายเคืองในอากาศ การเปลี่ยนแปลงสภาพอากาศ ยาบางชนิด อาหารบางประเภท และปัญหาสุขภาพเรื้อรัง การวินิจฉัยทำได้หลังจากตัดสาเหตุจากภูมิแพ้ออกไปแล้ว</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>DIA_CRP_JM_AFS</LocID>                         
+		 <Text>ไซนัสอักเสบจากเชื้อราแบบภูมิแพ้</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_AFS_DESCRIPTION</LocID>             
+		 <Text>Allergic Fungal Sinusitis (AFS) เป็นการติดเชื้อราในไซนัสชนิดหายาก เชื้อราที่พบในสิ่งแวดล้อมทำให้เกิดปฏิกิริยาภูมิแพ้ ซึ่งส่งผลให้เกิดเศษซากเชื้อราหนาตัว เมือกเหนียว และการอุดตันของไซนัสที่ติดเชื้อ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_DNS</LocID>                         
+		 <Text>ผนังกั้นช่องจมูกคด</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_DNS_DESCRIPTION</LocID>             
+		 <Text>ผนังกั้นช่องจมูกคด (Deviated nasal septum) หมายถึงผนังกั้นจมูกบิดเบี้ยวเนื่องจากการบาดเจ็บหรืออุบัติเหตุ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_LOF</LocID>                         
+		 <Text>แผลฉีกขาดที่ใบหน้า</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_LOF_DESCRIPTION</LocID>             
+		 <Text>ใบหน้าของผู้ป่วยมีบาดแผลฉีกขาด</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_THT</LocID>                         
+		 <Text>เยื่อบุโพรงจมูกบวมโต (Turbinate Hypertrophy)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_THT_DESCRIPTION</LocID>             
+		 <Text>Nasal turbinates เป็นทางเดินยาวและแคบที่ช่วยอุ่นและเพิ่มความชื้นให้กับอากาศที่ไหลเข้าทางจมูก หาก Turbinates ใหญ่เกินไป อาจขัดขวางการไหลเวียนของอากาศ แพทย์เรียกภาวะนี้ว่า Turbinate hypertrophy ภาวะนี้อาจทำให้เกิดปัญหาการหายใจ การติดเชื้อบ่อยครั้ง และเลือดกำเดาไหล</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_DSA</LocID>                         
+		 <Text>การรับรู้กลิ่นผิดปกติ (Dysosmia)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_DSA_DESCRIPTION</LocID>             
+		 <Text>Dysosmia เป็นความผิดปกติที่อธิบายถึงการเปลี่ยนแปลงหรือการบิดเบือนเชิงคุณภาพของการรับรู้กลิ่น สามารถจำแนกได้เป็น Parosmia (กลิ่นเพี้ยนไปจากเดิม) หรือ Phantosmia (ได้กลิ่นหลอนทั้งที่ไม่มีกลิ่นนั้นอยู่จริง) สาเหตุยังไม่แน่ชัด แต่มักถือว่าเป็นความผิดปกติทางระบบประสาท สาเหตุหลักมักเกี่ยวข้องกับการติดเชื้อทางเดินหายใจส่วนบน การบาดเจ็บที่ศีรษะ และโรคของจมูกและไซนัส อาการมักหายไปเองได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_NSC</LocID>                         
+		 <Text>มะเร็งโพรงจมูก (Squamous Cell Carcinoma)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_NAC</LocID>                         
+		 <Text>มะเร็งโพรงจมูก (Adenocarcinoma)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_NMA</LocID>                         
+		 <Text>มะเร็งโพรงจมูก (Melanoma)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_NSC_DESCRIPTION</LocID>             
+		 <Text>มะเร็งโพรงจมูกและไซนัส (Paranasal sinus and nasal cavity cancer) เป็นโรคที่เซลล์มะเร็งก่อตัวในเนื้อเยื่อของไซนัสข้างจมูกและโพรงจมูก ไซนัสเป็นโพรงอากาศในกระดูกรอบจมูก บุด้วยเซลล์สร้างเมือก โพรงจมูกอยู่เหนือเพดานปาก มะเร็งชนิดนี้จัดเป็นมะเร็งศีรษะและลำคอชนิดหนึ่ง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_FON</LocID>                         
+		 <Text>สิ่งแปลกปลอมในจมูก</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_FON_DESCRIPTION</LocID>             
+		 <Text>ผู้ป่วยมีวัตถุติดอยู่ในจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_SSS</LocID>                         
+		 <Text>กลุ่มอาการไซนัสเงียบ (Silent Sinus Syndrome)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_SSS_DESCRIPTION</LocID>             
+		 <Text>Silent sinus syndrome เป็นโรคที่มีลักษณะคือตาโปนหรือตายุบลง อันเนื่องมาจากการยุบตัวของพื้นเบ้าตาในขณะที่มีภาวะไซนัสอักเสบเรื้อรังที่ไม่มีอาการ (Asymptomatic chronic maxillary sinusitis)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_RST</LocID>                         
+		 <Text>ไซนัสอักเสบเฉียบพลัน</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_RST_DESCRIPTION</LocID>             
+		 <Text>Acute rhinosinusitis เป็นโรคที่พบบ่อย ส่วนใหญ่เกิดจากไวรัสและหายได้เอง การวินิจฉัยอาศัยอาการทางคลินิก ไม่จำเป็นต้องเอกซเรย์ไซนัสเป็นประจำ ผู้ป่วยส่วนใหญ่รักษาตามอาการ ยาปฏิชีวนะจะใช้สำหรับกรณีปานกลางถึงรุนแรง หรือเมื่อมีการติดเชื้อแบคทีเรียแทรกซ้อน (อาการเกิน 10 วัน)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_CRS</LocID>                         
+		 <Text>จมูกและไซนัสอักเสบเรื้อรัง</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_CRS_DESCRIPTION</LocID>             
+		 <Text>Chronic rhinosinusitis หมายถึงภาวะที่การอักเสบของไซนัสกินเวลานานอย่างน้อย 12 สัปดาห์แม้จะได้รับการรักษา และทำให้เกิดอาการอย่างน้อยสองอย่างต่อไปนี้: คัดจมูก น้ำมูกไหลหรือเสมหะไหลลงคอ ปวดใบหน้า แน่นจมูก หรือการรับรู้กลิ่นลดลง แตกต่างจากแบบเฉียบพลันและต้องใช้แนวทางการรักษาเฉพาะทาง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_RPM</LocID>                         
+		 <Text>จมูกสิงโต (Rhinophyma)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_RPM_DESCRIPTION</LocID>             
+		 <Text>Rhinophyma เป็นความผิดปกติของผิวหนังที่มีลักษณะจมูกใหญ่ แดง เป็นตะปุ่มตะป่ำ หรือบวมโต สามารถเกิดขึ้นเป็นส่วนหนึ่งของโรค Phymatous rosacea สาเหตุที่แท้จริงไม่ทราบแน่ชัด แต่ถือว่าเป็นชนิดย่อยของสิวหน้าแดง (Rosacea) ขั้นรุนแรง พบมากในผู้ชายอายุระหว่าง 50 ถึง 70 ปี</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_CLP</LocID>                         
+		 <Text>ปากแหว่งเพดานโหว่</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_CLP_DESCRIPTION</LocID>             
+		 <Text>ปากแหว่งและเพดานโหว่เป็นความผิดปกติแต่กำเนิดที่พบบ่อย เกิดจากการที่โครงสร้างใบหน้าของทารกในครรภ์ปิดไม่สนิท ปากแหว่งและเพดานโหว่สามารถแก้ไขได้ด้วยการศัลยกรรมเพื่อคืนการทำงานปกติและรูปลักษณ์ที่ดูเป็นปกติ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_IVP</LocID>                         
+		 <Text>เนื้องอก Inverted Papilloma</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_IVP_DESCRIPTION</LocID>             
+		 <Text>Inverted papillomas เป็นเนื้องอกชนิดไม่ร้ายแรงที่ก่อตัวในส่วนหลังของโพรงจมูก บางครั้งอาจขยายเข้าสู่ไซนัสหรือเบ้าตา ในบางโอกาส Inverted papillomas สามารถกลายเป็นมะเร็งชนิด Squamous cell carcinoma ที่รุนแรงได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_PBN</LocID>                         
+		 <Text>เลือดกำเดาไหลเรื้อรัง (จากหลอดเลือด)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_PBN_DESCRIPTION</LocID>             
+		 <Text>Chronic Epistaxis หรือเลือดกำเดาไหลเรื้อรัง คือภาวะที่มีเลือดออกทางจมูกเรื้อรัง ในกรณีนี้เกิดจากความผิดปกติของหลอดเลือด</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_SDN</LocID>                         
+		 <Text>จมูกยุบ (Saddle Nose)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_SDN_DESCRIPTION</LocID>             
+		 <Text>Saddle nose เป็นภาวะที่เกี่ยวข้องกับการบาดเจ็บที่จมูก ซิฟิลิสแต่กำเนิด หรือการใช้โคเคน มีลักษณะคือความสูงของจมูกลดลงเนื่องจากการยุบตัวของดั้งจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_SPF</LocID>                         
+		 <Text>ผนังกั้นช่องจมูกทะลุ</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_SPF_DESCRIPTION</LocID>             
+		 <Text>ผนังกั้นช่องจมูกทะลุ (Nasal septum perforation) คือภาวะที่ผนังกั้นระหว่างโพรงจมูกเกิดรูทะลุ สาเหตุอาจมาจากการเจาะจมูก การใช้ยาเฉพาะที่ในระยะยาว การแคะจมูกมากเกินไป หรือภาวะแทรกซ้อนจากการผ่าตัดจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_SPH</LocID>                         
+		 <Text>เลือดคั่งที่ผนังกั้นช่องจมูก</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_SPH_DESCRIPTION</LocID>             
+		 <Text>Septal hematoma คือการสะสมของเลือดในผนังกั้นช่องจมูก หากปล่อยไว้ไม่รักษาอาจทำลายเนื้อเยื่อและนำไปสู่การติดเชื้อได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_CSSP</LocID>                         
+		 <Text>ไซนัสอักเสบเรื้อรังร่วมกับริดสีดวงจมูก (ระยะเริ่มต้น)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_CSSP_DESCRIPTION</LocID>             
+		 <Text>ไซนัสอักเสบเรื้อรังที่มีสาเหตุมาจาก Nasal polyposis ในกรณีนี้ติ่งเนื้อจมูกยังไม่รุนแรง รักษาด้วยน้ำเกลือและสเปรย์สเตียรอยด์พ่นจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_CRP_JM_MEC</LocID>                         
+		 <Text>กะโหลกศีรษะโหว่ชนิด Meningoencephalocele</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_CRP_JM_MEC_DESCRIPTION</LocID>             
+		 <Text>Meningoencephalocele คือภาวะที่มีถุงยื่นผิดปกติของของเหลว เนื้อสมอง และเยื่อหุ้มสมอง ผ่านรอยโหว่ในกะโหลกศีรษะ</Text>  
+		</GameDBLocalizedString>
+		
+	  <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SED</LocID>                         
+		 <Text>โรคน้ำในหูไม่เท่ากัน (รุนแรง)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SED_DESCRIPTION</LocID>             
+		 <Text>Meniere's disease เป็นความผิดปกติของหูชั้นในที่ทำให้เกิดอาการวิงเวียนศีรษะ (Vertigo) และสูญเสียการได้ยิน ถือเป็นภาวะเรื้อรัง แต่การรักษาสามารถช่วยบรรเทาอาการได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_SVE</LocID>                         
+		 <Text>ใบหูขาด</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_SVE_DESCRIPTION</LocID>             
+		 <Text>ใบหูถูกตัดหรือกัดขาด</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_BTE</LocID>                         
+		 <Text>การบาดเจ็บจากแรงดัน (Barotrauma)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_BTE_DESCRIPTION</LocID>             
+		 <Text>Ear barotrauma คือความรู้สึกไม่สบายในหูเนื่องจากความแตกต่างของแรงดันระหว่างด้านในและด้านนอกของแก้วหู อาจรวมถึงความเสียหายต่อหู</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_FOE</LocID>                         
+		 <Text>สิ่งแปลกปลอมในหู</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_FOE_DESCRIPTION</LocID>             
+		 <Text>ผู้ป่วยมีวัตถุติดอยู่ในหู</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_ACN</LocID>                         
+		 <Text>เนื้องอกเส้นประสาทการได้ยิน</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_ACN_DESCRIPTION</LocID>             
+		 <Text>Acoustic neuroma (หรือ Vestibular schwannoma) เป็นเนื้องอกชนิดไม่ร้ายแรงที่เติบโตช้าบนเส้นประสาทการทรงตัวและการได้ยิน อาจทำให้สูญเสียการได้ยินข้างเดียว หูอื้อ และเวียนศีรษะ หากเนื้องอกใหญ่ขึ้นอาจกดทับสมองและเป็นอันตรายถึงชีวิตได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_VNI</LocID>                         
+		 <Text>เส้นประสาทการทรงตัวอักเสบ</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_VNI_DESCRIPTION</LocID>             
+		 <Text>Vestibular neuritis เป็นความผิดปกติที่ส่งผลต่อเส้นประสาท Vestibulocochlear ของหูชั้นใน เมื่อเส้นประสาทนี้อักเสบ จะรบกวนการส่งข้อมูลการทรงตัวไปยังสมอง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_CTN</LocID>                         
+		 <Text>ขี้หูอุดตัน</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CTN_DESCRIPTION</LocID>             
+		 <Text>ขี้หู (Cerumen) ถูกสร้างขึ้นเพื่อปกป้องหู หากมีการสะสมมากเกินไปอาจนำไปสู่การสูญเสียการได้ยิน การระคายเคือง ปวดหู หรือหูอื้อ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_BPPV</LocID>                         
+		 <Text>โรคหินปูนในหูชั้นในเคลื่อน (BPPV)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_BPPV_DESCRIPTION</LocID>             
+		 <Text>Benign paroxysmal positional vertigo (BPPV) เป็นความผิดปกติของหูชั้นใน อาการคือเวียนศีรษะบ้านหมุนระยะสั้นๆ ซ้ำๆ เมื่อมีการเปลี่ยนท่าทางของศีรษะ เกิดจากหินปูนชิ้นเล็กๆ (Otolith) หลุดลอยในหูชั้นใน การวินิจฉัยทำโดยการทดสอบ Dix–Hallpike</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_PCHA</LocID>                         
+		 <Text>หูนักมวย (Perichondrial Hematoma)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_PCHA_DESCRIPTION</LocID>             
+		 <Text>Cauliflower ear หรือ Perichondrial hematoma เป็นความผิดรูปของหูที่เกิดจากการบาดเจ็บ (เช่นในนักมวยปล้ำ) เกิดจากเลือดคั่งในใบหู (Hematoma) จำเป็นต้องรักษาทันทีเพื่อป้องกันความผิดรูปถาวร</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_EWR</LocID>                         
+		 <Text>นัดหมายแคะขี้หู</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_EWR_DESCRIPTION</LocID>             
+		 <Text>ผู้ป่วยมีนัดกับแพทย์เฉพาะทางหูคอจมูกเพื่อนำขี้หูออก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_MEDR</LocID>                         
+		 <Text>แก้วหูทะลุ</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_MEDR_DESCRIPTION</LocID>             
+		 <Text>แก้วหูทะลุ (Ruptured eardrum) คือรูหรือรอยฉีกขาดในเยื่อแก้วหู อาจทำให้สูญเสียการได้ยินและเสี่ยงต่อการติดเชื้อ มักหายเองได้ในไม่กี่สัปดาห์ แต่บางครั้งต้องใช้การปะหรือผ่าตัดซ่อมแซม</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SEDR</LocID>                         
+		 <Text>แก้วหูทะลุเรื้อรัง</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SEDR_DESCRIPTION</LocID>             
+		 <Text>แก้วหูทะลุที่ไม่หายเอง อาจต้องใช้การปะหรือผ่าตัดซ่อมแซม</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_ANM</LocID>                         
+		 <Text>เส้นประสาทการได้ยินเสื่อม (เล็กน้อย)</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_ANS</LocID>                         
+		 <Text>เส้นประสาทการได้ยินเสื่อม (รุนแรง)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <LocID>DIA_CRP_JM_ANM_DESCRIPTION</LocID>             
+		 <Text>Auditory Neuropathy (AN) คือความผิดปกติทางการได้ยินที่ข้อมูลเสียงไม่ถูกส่งผ่านเส้นประสาทการได้ยินไปยังสมองอย่างเพียงพอ แม้ว่าเซลล์ขนในหูชั้นในจะทำงานปกติ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_PBCM</LocID>                         
+		 <Text>หูตึงในผู้สูงอายุ (เล็กน้อย)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_PBCS</LocID>                         
+		 <Text>หูตึงในผู้สูงอายุ (รุนแรง)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <LocID>DIA_CRP_JM_PBCM_DESCRIPTION</LocID>             
+		 <Text>Presbycusis คือการสูญเสียการได้ยินที่เกิดขึ้นอย่างค่อยเป็นค่อยไปเมื่ออายุมากขึ้น เกิดจากความเสื่อมตามวัยและการสัมผัสเสียงดังเรื้อรัง ไม่สามารถย้อนกลับได้แต่สามารถใช้อุปกรณ์ช่วยฟังได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_LBRT</LocID>                         
+		 <Text>หูชั้นในอักเสบ (Labyrinthitis)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <LocID>DIA_CRP_JM_LBRT_DESCRIPTION</LocID>             
+		 <Text>Labyrinthitis คือการอักเสบของหูชั้นใน ส่งผลให้เกิดความรู้สึกเหมือนโลกหมุน และอาจสูญเสียการได้ยินหรือหูอื้อร่วมด้วย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_OTP</LocID>                         
+		 <Text>ภาวะหูโตผิดรูป (Otophyma)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <LocID>DIA_CRP_JM_OTP_DESCRIPTION</LocID>             
+		 <Text>Otophyma เป็นคำที่ใช้เรียกภาวะต่อมไขมันโตและเพิ่มจำนวนที่ใบหู มักเป็นระยะสุดท้ายของโรค Rosacea</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_ESC</LocID>                         
+		 <Text>มะเร็งรูหู (Squamous Cell Carcinoma)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_EAC</LocID>                         
+		 <Text>มะเร็งรูหู (Adenocarcinoma)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_EMA</LocID>                         
+		 <Text>มะเร็งรูหู (Melanoma)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <LocID>DIA_CRP_JM_ESC_DESCRIPTION</LocID>             
+		 <Text>มะเร็งหูสามารถส่งผลกระทบต่อทั้งหูชั้นในและชั้นนอก มักเริ่มจากมะเร็งผิวหนังที่หูชั้นนอกและลามเข้าไปยังโครงสร้างต่างๆ รวมถึงรูหูและกระดูก Temporal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_NOM</LocID>                         
+		 <Text>หูชั้นกลางอักเสบชนิดเนื้อตาย</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_NOE</LocID>                         
+		 <Text>หูชั้นนอกอักเสบชนิดเนื้อตาย</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_CRP_JM_NOM_DESCRIPTION</LocID>             
+		 <Text>Necrotising/Malignant otitis externa (MOE) คือการติดเชื้อที่ส่งผลต่อรูหูและกระดูก Temporal สาเหตุมักเกิดจากเชื้อ Pseudomonas aeruginosa และมักพบในผู้ป่วยสูงอายุที่เป็นเบาหวาน</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SWE</LocID>                         
+		 <Text>หูชั้นนอกอักเสบรุนแรง</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GEE</LocID>                         
+		 <Text>น้ำขังในหูชั้นกลางรุนแรง (Glue Ear)</Text>	
+		</GameDBLocalizedString>
+		
+	  <GameDBLocalizedString> 
+		 <LocID>DIA_CRP_JM_CSA</LocID>                         
+		 <Text>ต่อมน้ำลายอักเสบเรื้อรัง</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_CSA_DESCRIPTION</LocID>             
+		 <Text>Chronic sialadenitis มักเจ็บปวดน้อยกว่าแบบเฉียบพลัน และสัมพันธ์กับการโตขึ้นซ้ำๆ ของต่อม (มักหลังมื้ออาหาร) สัมพันธ์กับภาวะการไหลของน้ำลายลดลง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_ASS</LocID>                         
+		 <Text>ต่อมน้ำลายอักเสบเป็นหนองเฉียบพลัน</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ASS_DESCRIPTION</LocID>             
+		 <Text>Acute sialadenitis เป็นการอักเสบของต่อมน้ำลายจากเชื้อแบคทีเรีย มักพบบ่อยที่สุดที่ต่อมพารอติด</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>DIA_CRP_JM_DTA</LocID>                         
+		 <Text>โรคคอตีบ (Diphtheria)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_DTA_DESCRIPTION</LocID>             
+		 <Text>โรคคอตีบเป็นการติดเชื้อแบคทีเรียร้ายแรงที่ส่งผลต่อเยื่อเมือกของจมูกและคอ สามารถรักษาได้ด้วยยา แต่ในระยะรุนแรงอาจทำลายหัวใจ ไต และระบบประสาทได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_VCP</LocID>                         
+		 <Text>เส้นเสียงอัมพาต</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_VCP_DESCRIPTION</LocID>             
+		 <Text>Vocal cord paralysis เกิดขึ้นเมื่อกระแสประสาทไปยังกล่องเสียงถูกรบกวน ส่งผลให้กล้ามเนื้อเส้นเสียงเป็นอัมพาต อาจส่งผลต่อความสามารถในการพูดและหายใจ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_TSC</LocID>                         
+		 <Text>มะเร็งคอหอย (Squamous Cell Carcinoma)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_TAC</LocID>                         
+		 <Text>มะเร็งคอหอย (Adenocarcinoma)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_TML</LocID>                         
+		 <Text>มะเร็งคอหอย (Melanoma)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_TSC_DESCRIPTION</LocID>             
+		 <Text>มะเร็งคอหอยชนิด Squamous cell carcinoma เป็นมะเร็งลำคอที่พบบ่อยที่สุด เป็นการเติบโตที่ควบคุมไม่ได้ของเซลล์ผิดปกติที่เยื่อบุลำคอ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_CPHG</LocID>                         
+		 <Text>คอหอยอักเสบเรื้อรัง</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_CPHG_DESCRIPTION</LocID>             
+		 <Text>Pharyngitis คือการอักเสบของคอหอย ในกรณีเรื้อรัง อาการเจ็บคอจะไม่หายไปหรือเป็นซ้ำบ่อยๆ อาจเกิดจากหลายสาเหตุ เช่น การติดเชื้อ การระคายเคือง หรือโรคอื่นๆ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SPT</LocID>                         
+		 <Text>คออักเสบจากเชื้อสเตรปโตคอคคัส</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SPT_DESCRIPTION</LocID>             
+		 <Text>Strep throat เป็นการติดเชื้อแบคทีเรียกลุ่ม A streptococcus มักต้องรักษาด้วยยาปฏิชีวนะ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_HFMV2</LocID>                         
+		 <Text>โรคมือเท้าปาก</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_HFM_DESCRIPTION</LocID>             
+		 <Text>Hand, foot, and mouth disease (HFMD) เป็นการติดเชื้อไวรัสที่พบบ่อย เริ่มด้วยไข้ ตามด้วยผื่นแดงหรือตุ่มพองที่มือ เท้า และปาก ไม่มีการรักษาเฉพาะ รักษาตามอาการจนกว่าจะหาย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_LGP</LocID>                         
+		 <Text>เนื้องอกพาพิลโลมาที่กล่องเสียง</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_LGP_DESCRIPTION</LocID>             
+		 <Text>Laryngeal papillomatosis เป็นภาวะที่มีเนื้องอกชนิดไม่ร้ายแรง (Papilloma) ก่อตัวตามทางเดินหายใจ เกิดจากเชื้อไวรัส HPV อาจทำให้ทางเดินหายใจตีบแคบ รักษาโดยการผ่าตัดเอาเนื้องอกออก แต่อาจเป็นซ้ำได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_VCN</LocID>                         
+		 <Text>ตุ่มเนื้อที่เส้นเสียง (Vocal Nodules)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_VCN_DESCRIPTION</LocID>             
+		 <Text>Vocal nodules เป็นตุ่มแข็งด้าน ไม่ใช่มะเร็ง บนเส้นเสียง เกิดจากการใช้เสียงมากเกินไป หรือตะโกน</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYC</LocID>                         
+		 <Text>การบาดเจ็บที่กล่องเสียง</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYC_DESCRIPTION</LocID>             
+		 <Text>Laryngeal trauma คือการบาดเจ็บที่กล่องเสียง อาจเกิดจากการกระแทกหรืออุบัติเหตุ อาจทำให้เสียงเปลี่ยนหรือหายใจลำบาก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYL</LocID>                         
+		 <Text>แผลฉีกขาดที่กล่องเสียง</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYL_DESCRIPTION</LocID>             
+		 <Text>Laryngeal trauma คือการบาดเจ็บที่กล่องเสียง อาจเกิดจากการกระแทกหรืออุบัติเหตุ อาจทำให้เสียงเปลี่ยนหรือหายใจลำบาก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GRDV2</LocID>                         
+		 <Text>โรคกรดไหลย้อน (GERD)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GRD</LocID>                         
+		 <Text>โรคกรดไหลย้อน (เลิกใช้)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GRD_DESCRIPTION</LocID>             
+		 <Text>Gastroesophageal reflux disease (GERD) เป็นความผิดปกติที่ส่งผลต่อหูรูดหลอดอาหารส่วนล่าง ทำให้กรดไหลย้อนขึ้นมา หากปล่อยไว้ไม่รักษาอาจทำให้หลอดอาหารอักเสบได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_OSA2</LocID>                         
+		 <Text>ภาวะหยุดหายใจขณะหลับจากการอุดกั้น</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_OSA_DESCRIPTION</LocID>             
+		 <Text>Obstructive sleep apnea (OSA) คือภาวะที่มีการอุดกั้นทางเดินหายใจส่วนบนซ้ำๆ ขณะหลับ ทำให้หยุดหายใจเป็นช่วงๆ และระดับออกซิเจนในเลือดลดลง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>TRM_CRP_JM_PYC</LocID>                         
+		 <Text>การบาดเจ็บที่คอหอย</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_PYC_DESCRIPTION</LocID>             
+		 <Text>Pharyngeal trauma คือการบาดเจ็บที่คอหอย อาจเกิดจากเครื่องมือแพทย์หรือบาดแผลเจาะทะลุ เป็นภาวะที่อาจคุกคามชีวิตได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>TRM_CRP_JM_PYL</LocID>                         
+		 <Text>แผลฉีกขาดที่คอหอย</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_PYL_DESCRIPTION</LocID>             
+		 <Text>Pharyngeal trauma คือการบาดเจ็บที่คอหอย อาจเกิดจากเครื่องมือแพทย์หรือบาดแผลเจาะทะลุ เป็นภาวะที่อาจคุกคามชีวิตได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CWP</LocID>                         
+		 <Text>หลอดลมใหญ่อ่อนตัว (Tracheomalacia)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CWP_DESCRIPTION</LocID>             
+		 <Text>Tracheomalacia คือภาวะที่กระดูกอ่อนของหลอดลมมีความอ่อนตัว ทำให้หลอดลมยุบตัวบางส่วนโดยเฉพาะขณะหายใจออก ทำให้เกิดเสียงหายใจดัง (Stridor)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CLRG</LocID>                         
+		 <Text>กล่องเสียงอักเสบเรื้อรัง</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CLRG_DESCRIPTION</LocID>             
+		 <Text>Chronic laryngitis คือกล่องเสียงอักเสบที่กินเวลานานกว่า 3 สัปดาห์ มักเกิดจากการระคายเคืองเรื้อรัง เช่น ควัน สารเคมี กรดไหลย้อน หรือการใช้เสียงมากเกินไป</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CTSA</LocID>                         
+		 <Text>ภาวะหยุดหายใจขณะหลับจากสมองส่วนกลาง</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CTSA_DESCRIPTION</LocID>             
+		 <Text>Central sleep apnea เกิดขึ้นเมื่อสมองไม่ส่งสัญญาณที่เหมาะสมไปยังกล้ามเนื้อที่ควบคุมการหายใจ ทำให้หยุดหายใจขณะหลับ ต่างจาก OSA ที่เกิดจากการอุดกั้นทางเดินหายใจ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_RKE</LocID>                         
+		 <Text>เส้นเสียงบวมน้ำ (Reinke's Edema)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_RKE_DESCRIPTION</LocID>             
+		 <Text>Reinke's edema คือการบวมของเส้นเสียงเนื่องจากของเหลวสะสมใน Reinke's space ทำให้เสียงแหบห้าว สาเหตุหลักมาจากการสูบบุหรี่</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_OVC</LocID>                         
+		 <Text>ภาวะใช้เสียงเกินกำลัง (Vocal Fatigue)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_OVC_DESCRIPTION</LocID>             
+		 <Text>Vocal fatigue เกิดจากการใช้เสียงมากเกินไป มักพบในผู้ที่ใช้เสียงอาชีพ การพักเสียงและการบำบัดเสียงสามารถช่วยฟื้นฟูได้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CTS</LocID>                         
+		 <Text>ทอนซิลอักเสบเรื้อรัง</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CTS_DESCRIPTION</LocID>             
+		 <Text>Tonsillitis คือการอักเสบของต่อมทอนซิล หากอาการคงอยู่นานกว่า 3 เดือน จะถือว่าเป็นเรื้อรัง และอาจต้องพิจารณาตัดทอนซิลออก (Tonsillectomy)</Text>  
+		</GameDBLocalizedString>
+		
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

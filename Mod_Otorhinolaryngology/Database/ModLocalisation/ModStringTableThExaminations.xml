@@ -1,0 +1,222 @@
+<Database>
+    <GameDBStringTable ID="LOC_TH_ADDON_OTOR_EXAMINATIONS">
+        <LanguageCode>th</LanguageCode>
+        <LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+        <Contributors>
+            <Name>TonWazza</Name>
+        </Contributors>
+		
+        <LocalizedStrings>
+        <GameDBLocalizedString>      
+			<LocID>EXM_JM_OAE</LocID>                  
+			<Text>การตรวจเสียงสะท้อนจากหู (OAE)</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OAE_DESCRIPTION</LocID>                  
+			<Text>การทดสอบ OAE (Otoacoustic Emissions) ตรวจสอบการตอบสนองของหูชั้นในต่อเสียง การทดสอบนี้ส่วนใหญ่ทำในทารกและเด็กเล็กที่ไม่สามารถตอบสนองต่อการทดสอบการได้ยินเชิงพฤติกรรมได้เนื่องจากอายุ</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOMETRY</LocID>                  
+			<Text>การตรวจการได้ยิน (Audiometry)</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM</LocID>                  
+			<Text>กราฟการได้ยิน (Audiogram)</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM_DESCRIPTION</LocID>                  
+			<Text>Audiogram คือกราฟที่แสดงเกณฑ์การได้ยินสำหรับความถี่มาตรฐานที่วัดโดยเครื่องวัดการได้ยิน แกน Y แสดงความเข้มเป็นเดซิเบล และแกน X แสดงความถี่เป็นเฮิรตซ์</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OTOSCOPY</LocID>                  
+			<Text>การส่องตรวจหู (Otoscopy)</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OTOSCOPY_DESCRIPTION</LocID>                  
+			<Text>Otoscopy เป็นขั้นตอนทางคลินิกที่ใช้ตรวจสอบโครงสร้างของหู โดยเฉพาะช่องหูชั้นนอก เยื่อแก้วหู และหูชั้นกลาง แพทย์ใช้ขั้นตอนนี้ระหว่างการตรวจร่างกายทั่วไป การตรวจหาเบาะแสเพื่อการวินิจฉัย และการประเมินอาการทางหูโดยเฉพาะ</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+            <LocID>EXM_JM_EAR_BIOPSY_SAMPLING</LocID>                  
+	        <Text>การตัดชิ้นเนื้อหู - เก็บตัวอย่าง</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_EAR_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	        <Text>การตัดชิ้นเนื้อหูเป็นหัตถการทางศัลยกรรม โดยการตัดตัวอย่างช่องหูภายใต้การดมยาสลบ มักทำเพื่อตรวจหาชนิดของเนื้องอกในหู</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_EAR_BIOPSY_TESTING</LocID>                  
+	        <Text>การตัดชิ้นเนื้อหู - ตรวจวิเคราะห์</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_EAR_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	        <Text>การตรวจวิเคราะห์ตัวอย่างชิ้นเนื้อจากหูในห้องปฏิบัติการเพื่อวินิจฉัยโรค</Text> 
+	        </GameDBLocalizedString>
+			
+		 <GameDBLocalizedString>      
+			<LocID>EXM_JM_RHINOSCOPY</LocID>                  
+			<Text>การส่องตรวจจมูก (Rhinoscopy)</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_RHINOSCOPY_DESCRIPTION</LocID>                  
+			<Text>Rhinoscopy คือวิธีการมองเข้าไปในจมูกและคอ Rhinoscopy ช่วยให้แพทย์มองเห็นเกือบทั้งหมดของภายในจมูก คอ อะดีนอยด์ และเส้นเสียง</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_SAMPLING</LocID>                  
+	        <Text>การตัดชิ้นเนื้อจมูก - เก็บตัวอย่าง</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	        <Text>การตัดชิ้นเนื้อจมูกเป็นหัตถการทางศัลยกรรม โดยการตัดตัวอย่างโพรงจมูกภายใต้การดมยาสลบ มักทำเพื่อตรวจหาชนิดของเนื้องอกในจมูก</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_TESTING</LocID>                  
+	        <Text>การตัดชิ้นเนื้อจมูก - ตรวจวิเคราะห์</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	        <Text>การตรวจวิเคราะห์ตัวอย่างชิ้นเนื้อจากจมูกในห้องปฏิบัติการเพื่อวินิจฉัยโรค</Text> 
+	        </GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+	        <LocID>EXM_JM_NASAL_SWAB_SAMPLING</LocID>
+	        <Text>การเก็บตัวอย่างจากจมูก (Nasal Swab)</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_NASAL_SWAB_SAMPLING_DESCRIPTION</LocID>  
+	        <Text>Nasal swab เป็นการทดสอบเพื่อตรวจหาไวรัสและแบคทีเรียที่ทำให้เกิดการติดเชื้อทางเดินหายใจ การทดสอบนี้ช่วยให้แพทย์วินิจฉัยประเภทของการติดเชื้อและเลือกการรักษาที่ดีที่สุด ทำโดยการเก็บตัวอย่างเซลล์จากรูจมูกหรือโพรงหลังจมูก (Nasopharynx)</Text> 
+	        </GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+	        <LocID>EXM_JM_NASAL_SWAB_TESTING</LocID>
+	        <Text>การเพาะเชื้อจากจมูก</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>
+	        <LocID>EXM_JM_NASAL_SWAB_TESTING_DESCRIPTION</LocID>  
+	        <Text>การตรวจวิเคราะห์ตัวอย่างจากจมูกในห้องปฏิบัติการเพื่อหาเชื้อก่อโรค</Text> 
+	        </GameDBLocalizedString>
+			
+		 <GameDBLocalizedString>
+			<LocID>EXM_OTOR_LARYNGOSCOPY</LocID>
+			<Text>การส่องกล้องกล่องเสียง</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_LARYNGOSCOPY</LocID>
+			<Text>การส่องกล้องกล่องเสียงขั้นสูง</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_SAMPLING</LocID>                  
+	        <Text>การตัดชิ้นเนื้อคอ - เก็บตัวอย่าง</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	        <Text>การตัดชิ้นเนื้อคอเป็นหัตถการทางศัลยกรรม โดยการตัดตัวอย่างเนื้อเยื่อคอภายใต้การดมยาสลบ มักทำเพื่อตรวจหาชนิดของเนื้องอกในคอ</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_TESTING</LocID>                  
+	        <Text>การตัดชิ้นเนื้อคอ - ตรวจวิเคราะห์</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	        <Text>การตรวจวิเคราะห์ตัวอย่างชิ้นเนื้อจากคอในห้องปฏิบัติการเพื่อวินิจฉัยโรค</Text> 
+	        </GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+	        <LocID>EXM_JM_THROAT_SWAB_SAMPLING</LocID>
+	        <Text>การป้ายคอ (Throat Swab)</Text> 
+        	</GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_THROAT_SWAB_SAMPLING_DESCRIPTION</LocID>  
+	        <Text>Throat swab culture หรือ Throat culture เป็นการทดสอบเพื่อวินิจฉัยการติดเชื้อแบคทีเรียในคอ เช่น คออักเสบจากเชื้อสเตรป, ปอดบวม, คอตีบ, ทอนซิลอักเสบ, ไอกรน และเยื่อหุ้มสมองอักเสบ จุดประสงค์คือเพื่อตรวจหาเชื้อก่อโรคในคอ</Text> 
+	        </GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+	        <LocID>EXM_JM_THROAT_SWAB_TESTING</LocID>
+	        <Text>การเพาะเชื้อจากคอ</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>
+	        <LocID>EXM_JM_THROAT_SWAB_TESTING_DESCRIPTION</LocID>  
+	        <Text>การตรวจวิเคราะห์ตัวอย่างจากคอในห้องปฏิบัติการเพื่อหาเชื้อก่อโรค</Text> 
+	        </GameDBLocalizedString>
+		
+		 <GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY</LocID>                  
+			<Text>การตรวจการนอนหลับ (Polysomnograph)</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY_DESCRIPTION</LocID>                  
+			<Text>Polysomnography หรือ Sleep study เป็นการทดสอบเพื่อวินิจฉัยความผิดปกติของการนอนหลับ บันทึกคลื่นสมอง ระดับออกซิเจนในเลือด อัตราการเต้นของหัวใจ การหายใจ รวมถึงการเคลื่อนไหวของตาและขาในระหว่างการนอนหลับ</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>     
+			<LocID>EXM_JM_SKIN_INJECTION_TEST</LocID>      
+			<Text>การทดสอบภูมิแพ้ทางผิวหนัง</Text> 
+			</GameDBLocalizedString>
+			
+		  <GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_SAMPLING</LocID>
+			<Text>การตรวจเชื้อสเตรปแบบรวดเร็ว - เก็บตัวอย่าง</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_SAMPLING_DESCRIPTION</LocID>  
+			<Text>Rapid strep test (RST) เป็นการตรวจหาแอนติเจนอย่างรวดเร็ว (RADT) ที่ใช้กันอย่างแพร่หลายในคลินิกเพื่อช่วยในการวินิจฉัยโรคคออักเสบจากเชื้อแบคทีเรีย Group A streptococci (GAS) หรือ Strep throat</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_TESTING</LocID>
+			<Text>การตรวจเชื้อสเตรปแบบรวดเร็ว - ตรวจวิเคราะห์</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_RAPID_STREP_TESTING_DESCRIPTION</LocID>  
+			<Text>การวิเคราะห์ผลการตรวจ Rapid strep test เพื่อยืนยันการติดเชื้อ</Text> 
+			</GameDBLocalizedString>
+	
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING</LocID>
+	        <Text>การเพาะเชื้อเสมหะ - เก็บตัวอย่าง</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>  
+	        <Text>Sputum culture เป็นการทดสอบเพื่อตรวจหาและระบุชนิดของแบคทีเรียหรือเชื้อราที่ทำให้ปอดหรือทางเดินหายใจติดเชื้อ เสมหะเป็นของเหลวข้นที่ผลิตในปอดและทางเดินหายใจใกล้เคียง หากไม่มีแบคทีเรียหรือเชื้อราเจริญเติบโต ผลการเพาะเชื้อจะเป็นลบ</Text> 
+	        </GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+	        <LocID>EXM_JM_SPUTUM_CULTURE_TESTING</LocID>
+	        <Text>การเพาะเชื้อเสมหะ - ตรวจวิเคราะห์</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>
+	        <LocID>EXM_JM_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>  
+	        <Text>การตรวจวิเคราะห์เสมหะในห้องปฏิบัติการเพื่อหาเชื้อก่อโรค</Text> 
+        	</GameDBLocalizedString>
+	
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

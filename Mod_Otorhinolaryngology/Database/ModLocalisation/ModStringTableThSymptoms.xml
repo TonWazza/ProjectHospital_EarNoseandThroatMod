@@ -1,0 +1,872 @@
+<Database>
+	<GameDBStringTable ID="LOC_TH_ADDON_OTOR_SYMPTOMS">
+	<LanguageCode>th</LanguageCode>
+	<LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+	<Contributors>
+	<Name>TonWazza</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	 <GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS</LocID>                 
+		 <Text>ริดสีดวงจมูกชนิด Ethmoidal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS_DESCRIPTION</LocID>     
+		 <Text>ริดสีดวงจมูก (Nasal polyps) คือก้อนเนื้อนุ่ม ไม่เจ็บ ไม่ใช่เนื้อร้าย ที่เกิดขึ้นบนเยื่อบุโพรงจมูกหรือไซนัส มีลักษณะห้อยลงมาเหมือนหยดน้ำหรือพวงองุ่น เกิดจากการอักเสบเรื้อรัง มีสองประเภทหลักคือ Ethmoidal และ Antrochoanal Ethmoidal polyps เกิดจากไซนัส Ethmoid และยื่นผ่าน Middle meatus เข้าสู่โพรงจมูก ส่วน Antrochoanal polyps มักเกิดจากไซนัส Maxillary และยื่นเข้าสู่โพรงหลังจมูก พบได้เพียง 4–6% ของริดสีดวงจมูกทั้งหมด รักษาได้ด้วยสเปรย์น้ำเกลือหรือการผ่าตัด ขึ้นอยู่กับขนาดของติ่งเนื้อ</Text>  
+		</GameDBLocalizedString>
+		
+	    <GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_NASAL_OBSTRUCTION</LocID>                 
+		 <Text>โพรงจมูกอักเสบ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_NASAL_OBSTRUCTION_DESCRIPTION</LocID>     
+	   	 <Text>แพทย์ตรวจพบการอักเสบของจมูก และไม่พบริดสีดวงจมูกจากการทำ CT scan หรือการส่องตรวจโพรงจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>       
+		 <LocID>SYM_CRP_JM_FUNGAL_INFECTION_OF_SINUS</LocID>                               
+		 <Text>พบเชื้อรา Aspergillus ในไซนัส</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_FUNGAL_INFECTION_OF_SINUS_DESCRIPTION</LocID>                               
+		 <Text>พบเชื้อรา Aspergillus ในไซนัสจากการเพาะเชื้อเสมหะ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_ENS_FINDINGS</LocID>                 
+		 <Text>พบอาการกลุ่มอาการจมูกโล่ง (ENS)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ENS_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>ตรวจพบภาวะ Empty Nose Syndrome จากการทำ CT scan</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_DEVIATED_NASAL_SEPTUM</LocID>                 
+		 <Text>ผนังกั้นช่องจมูกคด</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_DEVIATED_NASAL_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>การตรวจโพรงจมูกพบว่าผู้ป่วยมีผนังกั้นช่องจมูกคด</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_FACE_LACERATION</LocID>                 
+		 <Text>แผลฉีกขาดที่ใบหน้า</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FACE_LACERATION_DESCRIPTION</LocID>     
+		 <Text>ใบหน้าของผู้ป่วยมีบาดแผลฉีกขาด</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_SWOLLEN_NASAL_TURBINATE</LocID>                 
+		 <Text>เยื่อบุโพรงจมูกบวมโต</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SWOLLEN_NASAL_TURBINATE_DESCRIPTION</LocID>     
+		 <Text>Turbinates ในจมูกของผู้ป่วยบวมโต</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_DYSOSMIA_CONFIRMED</LocID>                 
+		 <Text>ยืนยันภาวะ Dysosmia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_DYSOSMIA_CONFIRMED_DESCRIPTION</LocID>     
+		 <Text>แพทย์ยืนยันว่าผู้ป่วยมีภาวะการรับรู้กลิ่นผิดปกติ (Dysosmia)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_NOSE</LocID>                 
+		 <Text>พบ Squamous Cell Carcinoma ในโพรงจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_NOSE_DESCRIPTION</LocID>     
+		 <Text>พบเนื้องอกมะเร็งชนิด Squamous Cell Carcinoma ในโพรงจมูกจากการตัดชิ้นเนื้อ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_NOSE</LocID>                 
+		 <Text>พบ Adenocarcinoma ในโพรงจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>พบเนื้องอกมะเร็งชนิด Adenocarcinoma ในโพรงจมูกจากการตัดชิ้นเนื้อ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MELANOMA_NOSE</LocID>                 
+		 <Text>พบ Melanoma ในโพรงจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_MELANOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>พบเนื้องอกมะเร็งชนิด Melanoma ในโพรงจมูกจากการตัดชิ้นเนื้อ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_NOSE</LocID>                 
+		 <Text>สิ่งแปลกปลอมในจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_NOSE_DESCRIPTION</LocID>     
+		 <Text>จมูกของผู้ป่วยมีวัตถุติดอยู่</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_SNORE</LocID>                 
+		 <Text>นอนกรน</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_CRP_JM_NA_RH</LocID>                 
+		<Text>ยืนยันโรคจมูกอักเสบชนิดไม่แพ้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_CRP_JM_NA_RH_DESCRIPTION</LocID>     
+		<Text>ยืนยันกรณีของโรคจมูกอักเสบชนิดไม่แพ้ (Non-allergic Rhinitis)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_ASN_CONFIRM</LocID>                 
+		 <Text>ยืนยันไซนัสอักเสบจากภูมิแพ้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ASN_CONFIRM_DESCRIPTION</LocID>     
+		 <Text>ยืนยันกรณีของไซนัสอักเสบจากภูมิแพ้</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_COLLAPSED_SINUS</LocID>                 
+		 <Text>ไซนัสยุบตัว</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_COLLAPSED_SINUS_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยมีภาวะไซนัสยุบตัวทำให้ใบหน้าผิดรูป</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_ACUTE_RHINOSINUSITIS</LocID>                 
+		 <Text>การติดเชื้อเฉียบพลันของจมูกและไซนัส</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_ACUTE_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยมีการติดเชื้อเฉียบพลันของจมูกและไซนัส ทำให้เกิดโรคไซนัสอักเสบเฉียบพลัน (Acute Rhinosinusitis)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_CHRONIC_RHINOSINUSITIS</LocID>                 
+		 <Text>การอักเสบเรื้อรังของจมูกและไซนัส</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_CRP_JM_CHRONIC_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยมีการอักเสบเรื้อรังของจมูกและไซนัส ทำให้เกิดโรคไซนัสอักเสบเรื้อรัง (Chronic Rhinosinusitis)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_RHINOPHYMA</LocID>                 
+		 <Text>ยืนยันภาวะ Rhinophyma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_CRP_JM_RHINOPHYMA_DESCRIPTION</LocID>     
+		 <Text>แพทย์พบก้อนเนื้อลักษณะคล้าย Rhinophyma จำนวนมากและหนาบนจมูก/พบเนื้อเยื่อส่วนเกิน น้ำมัน แบคทีเรีย และต่อมไขมันจากการตัดชิ้นเนื้อจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_CLEFT_LIP_PALATE</LocID>                 
+		 <Text>ปากแหว่งเพดานโหว่</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_CRP_JM_CLEFT_LIP_PALATE_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยแจ้งแพทย์เกี่ยวกับภาวะปากแหว่งเพดานโหว่ของตน/แพทย์ยืนยันว่าผู้ป่วยมีภาวะปากแหว่งเพดานโหว่</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_PROBLEMATIC_BLOOD_VESSELS_N</LocID>                 
+		 <Text>หลอดเลือดมีปัญหา</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_CRP_JM_PROBLEMATIC_BLOOD_VESSELS_N_DESCRIPTION</LocID>     
+		 <Text>การส่องตรวจจมูก (Rhinoscopy) พบหลอดเลือดที่มีปัญหาในจมูกของผู้ป่วย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_INVERTED_PAPILLOMA_N</LocID>                 
+		 <Text>พบเนื้องอก HPV ในจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_CRP_JM_INVERTED_PAPILLOMA_N_DESCRIPTION</LocID>     
+		 <Text>การตัดชิ้นเนื้อพบเนื้องอกชนิดไม่ร้ายแรงในจมูกที่มีสาเหตุมาจาก Human Papillomavirus (HPV)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_NASAL_POLYPS_S</LocID>                 
+		 <Text>ริดสีดวงจมูกชนิด Antrochoanal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_CRP_JM_NASAL_POLYPS_S_DESCRIPTION</LocID>     
+		 <Text>ริดสีดวงจมูก (Nasal polyps) คือก้อนเนื้อนุ่ม ไม่เจ็บ ไม่ใช่เนื้อร้าย ที่เกิดขึ้นบนเยื่อบุโพรงจมูกหรือไซนัส มีลักษณะห้อยลงมาเหมือนหยดน้ำหรือพวงองุ่น เกิดจากการอักเสบเรื้อรัง มีสองประเภทหลักคือ Ethmoidal และ Antrochoanal Ethmoidal polyps เกิดจากไซนัส Ethmoid และยื่นผ่าน Middle meatus เข้าสู่โพรงจมูก ส่วน Antrochoanal polyps มักเกิดจากไซนัส Maxillary และยื่นเข้าสู่โพรงหลังจมูก พบได้เพียง 4–6% ของริดสีดวงจมูกทั้งหมด รักษาได้ด้วยสเปรย์น้ำเกลือหรือการผ่าตัด ขึ้นอยู่กับขนาดของติ่งเนื้อ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_SADDLE_NOSE</LocID>                 
+		 <Text>การบาดเจ็บที่จมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_CRP_JM_SADDLE_NOSE_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยได้รับบาดเจ็บที่จมูกทำให้จมูกยุบ (Saddle nose)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_PERFORATED_SEPTUM</LocID>                 
+		 <Text>ผนังกั้นช่องจมูกทะลุ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_CRP_JM_PERFORATED_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยมีรูทะลุที่ผนังกั้นช่องจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_SEPTAL_CLOT</LocID>                 
+		 <Text>ลิ่มเลือดที่ผนังกั้นช่องจมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_CRP_JM_SEPTAL_CLOT_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยมีลิ่มเลือดในผนังกั้นช่องจมูกหลังจากได้รับบาดเจ็บที่จมูก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_CRP_JM_MENINGES_DEFORMITY</LocID>                 
+		 <Text>ถุงยื่นผิดปกติของของเหลวและเนื้อสมอง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_CRP_JM_MENINGES_DEFORMITY_DESCRIPTION</LocID>     
+		 <Text>CT หรือ MRI พบถุงยื่นผิดปกติของของเหลว เนื้อสมอง และเยื่อหุ้มสมอง เนื่องจากความผิดปกติของกะโหลกศีรษะ</Text>  
+		</GameDBLocalizedString>
+		
+	   <GameDBLocalizedString>     
+		 <LocID>SYM_JM_RINGING_IN_THE_EARS</LocID>                             
+		 <Text>หูอื้อ (Tinnitus)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_EAR_FLUID_DRAINAGE</LocID>                        
+		 <Text>น้ำไหลออกจากหู (Otorrhea)</Text> 
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_SWOLLEN_EAR_CANAL</LocID>                    
+		 <Text>รูหูบวม</Text>
+		</GameDBLocalizedString>
+		
+	  <GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_SEVERE_MENIERES</LocID>                 
+		 <Text>ยืนยันโรคน้ำในหูไม่เท่ากันรุนแรง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SEVERE_MENIERES_DESCRIPTION</LocID>     
+		 <Text>ยืนยันกรณีรุนแรงของโรค Meniere's</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_M_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>แก้วหูทะลุ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_M_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>แก้วหูของผู้ป่วยทะลุ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_S_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>แก้วหูทะลุเรื้อรัง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_S_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>แก้วหูของผู้ป่วยทะลุและยังไม่หาย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_INFECTED</LocID>                 
+		 <Text>พบการติดเชื้อในหู</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_INFECTED_DESCRIPTION</LocID>     
+		 <Text>พบการติดเชื้อในหูของผู้ป่วย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FLUID_IN_MIDDLE_EAR</LocID>                               
+		 <Text>น้ำขังในหูชั้นกลาง</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FLUID_IN_MIDDLE_EAR_DESCRIPTION</LocID>                               
+		 <Text>พบของเหลวขังอยู่ในหูชั้นกลาง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_BAROTRAUMA</LocID>                 
+		 <Text>ยืนยัน Barotrauma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_BAROTRAUMA_DESCRIPTION</LocID>     
+		 <Text>แพทย์ยืนยันว่าผู้ป่วยมีภาวะ Barotrauma (บาดเจ็บจากแรงดัน)</Text>  
+		</GameDBLocalizedString>
+	 
+	    <GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_SEVERED_EAR</LocID>                 
+		 <Text>ใบหูขาด</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SEVERED_EAR_DESCRIPTION</LocID>     
+		 <Text>ใบหูของผู้ป่วยขาดจากการบาดเจ็บ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PERICHONDRIAL_HEMATOMA</LocID>                 
+		 <Text>เลือดคั่งในใบหู</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_PERICHONDRIAL_HEMATOMA_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยมีเลือดคั่งในใบหู (Perichondrial hematoma)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_EAR</LocID>                 
+		 <Text>สิ่งแปลกปลอมในหู</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_EAR_DESCRIPTION</LocID>     
+		 <Text>หูของผู้ป่วยมีวัตถุติดอยู่</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_VESTIBULAR_NEURITIS</LocID>                 
+		 <Text>การอักเสบของเส้นประสาทการทรงตัว</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_VESTIBULAR_NEURITIS_DESCRIPTION</LocID>     
+		 <Text>เส้นประสาทการทรงตัว (Vestibular nerve) ของผู้ป่วยอักเสบ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_VESTIBULAR_TUMOR</LocID>                 
+		 <Text>พบเนื้องอกบนเส้นประสาทการทรงตัว</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VESTIBULAR_TUMOR_DESCRIPTION</LocID>     
+		 <Text>เส้นประสาทการทรงตัวของผู้ป่วยมีเนื้องอกเจริญเติบโตอยู่</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_EAR_WAX_BLOCKAGE</LocID>                 
+		 <Text>พบขี้หูอุดตัน</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_EAR_WAX_BLOCKAGE_DESCRIPTION</LocID>     
+		 <Text>หูของผู้ป่วยอุดตันด้วยขี้หู</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_EAR_WAX_REMOVAL</LocID>                 
+		 <Text>แคะขี้หู</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_WAX_REMOVAL_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยต้องการให้นำขี้หูออก</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_BPPV</LocID>                 
+		 <Text>สงสัย BPPV</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_BPPV_DESCRIPTION</LocID>     
+		 <Text>แพทย์ได้ตัดโรคอื่นๆ ที่เกี่ยวข้องกับ BPPV ออกไปแล้ว และสงสัยว่าผู้ป่วยเป็นโรคหินปูนในหูชั้นในเคลื่อน (BPPV)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_M</LocID>     <Text>ABR ผิดปกติ/ไม่มี แต่เซลล์ขนปกติ (เล็กน้อย)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_M_DESCRIPTION</LocID>     
+		 <Text>แพทย์ได้ทำการตรวจ OAE และพบว่าการทำงานของเซลล์ขนชั้นนอกปกติ แต่การตอบสนองของก้านสมองต่อเสียง (ABR) หายไปหรือผิดปกติ โดยยังมี Cochlear microphonic อยู่ และไม่มี Acoustic reflexes โชคดีที่อาการยังไม่รุนแรง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_S</LocID>                 
+		 <Text>ABR ผิดปกติ/ไม่มี แต่เซลล์ขนปกติ (รุนแรง)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_S_DESCRIPTION</LocID>     
+		 <Text>แพทย์ได้ทำการตรวจ OAE และพบว่าการทำงานของเซลล์ขนชั้นนอกปกติ แต่การตอบสนองของก้านสมองต่อเสียง (ABR) หายไปหรือผิดปกติ โดยยังมี Cochlear microphonic อยู่ และไม่มี Acoustic reflexes โชคร้ายที่อาการรุนแรง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_CRP_JM_PRESBYCUSIS_M</LocID>                 
+		 <Text>หูตึงตามวัย (เล็กน้อย)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_PRESBYCUSIS_M_DESCRIPTION</LocID>     
+		 <Text>แพทย์ได้ทำการประเมินและตรวจการได้ยินและสรุปว่าผู้ป่วยมีภาวะ Presbycusis (สูญเสียการได้ยินตามวัย) โชคดีที่อาการยังไม่รุนแรง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_CRP_JM_PRESBYCUSIS_S</LocID>                 
+		 <Text>หูตึงตามวัย (รุนแรง)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_PRESBYCUSIS_S_DESCRIPTION</LocID>     
+		 <Text>แพทย์ได้ทำการประเมินและตรวจการได้ยินและสรุปว่าผู้ป่วยมีภาวะ Presbycusis (สูญเสียการได้ยินตามวัย) โชคร้ายที่อาการรุนแรง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_CRP_JM_LABYRINTHITIS</LocID>                 
+		 <Text>เส้นประสาทการทรงตัวและการได้ยินอักเสบ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_LABYRINTHITIS_DESCRIPTION</LocID>     
+		 <Text>แพทย์ได้ทำ MRI หรือ CT scan และพบการอักเสบในทั้งเส้นประสาท Vestibular และ Cochlea ซึ่งบ่งชี้ถึง Labyrinthitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_CRP_JM_OTOPHYMA</LocID>                 
+		 <Text>หูบวมผิดรูป</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_OTOPHYMA_DESCRIPTION</LocID>     
+		 <Text>แพทย์ได้ทำการตรวจหูและดูเหมือนว่าหูของผู้ป่วยจะบวม แพทย์สรุปว่าผู้ป่วยมีภาวะหายากที่เรียกว่า Otophyma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_CRP_JM_ADENOCARCINOMA_EAR</LocID>                 
+		 <Text>พบ Adenocarcinoma ในช่องหู</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_ADENOCARCINOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>พบเนื้องอกมะเร็งชนิด Adenocarcinoma ในช่องหูจากการตัดชิ้นเนื้อ</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <LocID>SYM_CRP_JM_SQUAMOUS_CELL_EAR</LocID>                 
+		 <Text>พบ Squamous Cell Carcinoma ในช่องหู</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_SQUAMOUS_CELL_EAR_DESCRIPTION</LocID>     
+		 <Text>พบเนื้องอกมะเร็งชนิด Squamous Cell Carcinoma ในช่องหูจากการตัดชิ้นเนื้อ</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <LocID>SYM_CRP_JM_MELANOMA_EAR</LocID>                 
+		 <Text>พบ Melanoma ในช่องหู</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_MELANOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>พบเนื้องอกมะเร็งชนิด Melanoma ในช่องหูจากการตัดชิ้นเนื้อ</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_E</LocID>                 
+		 <Text>การติดเชื้อหูรุนแรง (ชั้นนอก)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_E_DESCRIPTION</LocID>     
+		 <Text>พบการติดเชื้อรุนแรงที่เกิดจาก Pseudomonas Aeruginosa ทำให้เกิด Otitis Externa ในผู้ป่วย</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_M</LocID>                 
+		 <Text>การติดเชื้อหูรุนแรง (ชั้นกลาง)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_M_DESCRIPTION</LocID>     
+		 <Text>พบการติดเชื้อรุนแรงที่เกิดจาก Pseudomonas Aeruginosa ทำให้เกิด Otitis Media ในผู้ป่วย</Text>
+		</GameDBLocalizedString>
+	 
+	  <GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_HPV_FOUND</LocID>                 
+		 <Text>พบ HPV ในลำคอ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_HPV_FOUND_DESCRIPTION</LocID>     
+		 <Text>พบเชื้อ HPV จากการตัดชิ้นเนื้อ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_CONTUSION</LocID>                 
+		 <Text>ยืนยันการบาดเจ็บที่กล่องเสียง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>ยืนยันกรณีของการบาดเจ็บที่กล่องเสียง (Laryngeal Trauma)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_LACERATION</LocID>                 
+		 <Text>ยืนยันแผลทะลุที่กล่องเสียง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>ยืนยันกรณีของแผลทะลุที่กล่องเสียง (Laryngeal Penetration)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VCN</LocID>                 
+		 <Text>พบตุ่มเนื้อที่เส้นเสียง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VCN_DESCRIPTION</LocID>     
+		 <Text>พบตุ่มเนื้อที่เส้นเสียง (Vocal nodules) จากการส่องกล้อง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ACUTE_S_SIA</LocID>                 
+		 <Text>ยืนยันต่อมน้ำลายอักเสบเป็นหนองเฉียบพลัน</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_ACUTE_S_SIA_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยได้รับการวินิจฉัยว่าเป็นต่อมน้ำลายอักเสบเป็นหนองเฉียบพลัน</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_CHRONIC_SIA</LocID>                 
+		 <Text>ยืนยันต่อมน้ำลายอักเสบเรื้อรัง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_CHRONIC_SIA_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยได้รับการวินิจฉัยว่าเป็นต่อมน้ำลายอักเสบเรื้อรัง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_THROAT</LocID>                 
+		 <Text>พบ Squamous Cell Carcinoma ในคอหอย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_THROAT_DESCRIPTION</LocID>     
+		 <Text>พบเนื้องอกมะเร็งชนิด Squamous Cell Carcinoma ในคอหอยจากการตัดชิ้นเนื้อ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_THROAT</LocID>                 
+		 <Text>พบ Adenocarcinoma ในคอหอย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>พบเนื้องอกมะเร็งชนิด Adenocarcinoma ในคอหอยจากการตัดชิ้นเนื้อ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_MELANOMA_THROAT</LocID>                 
+		 <Text>พบ Melanoma ในคอหอย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_MELANOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>พบเนื้องอกมะเร็งชนิด Melanoma ในคอหอยจากการตัดชิ้นเนื้อ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_CHRONIC_PHARYNGITIS</LocID>                 
+		 <Text>ยืนยันคอหอยอักเสบเรื้อรัง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_CHRONIC_PHARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>แพทย์ยืนยันว่าผู้ป่วยมีภาวะคอหอยอักเสบเรื้อรัง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_LARYNGEAL_PARALYSIS</LocID>                 
+		 <Text>เส้นเสียงอัมพาต</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_LARYNGEAL_PARALYSIS_DESCRIPTION</LocID>     
+		 <Text>แพทย์เห็นสัญญาณของเส้นเสียง (กล่องเสียง) เป็นอัมพาต</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_OSA_FINDINGS</LocID>                 
+		 <Text>พบภาวะหยุดหายใจขณะหลับจากการอุดกั้น</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_OSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>Polypsomnography เปิดเผยการค้นพบภาวะหยุดหายใจขณะหลับจากการอุดกั้น (OSA) ในผู้ป่วย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_BLUNT_PHARYNX_CONTUSION</LocID>                 
+		 <Text>ยืนยันการบาดเจ็บที่คอหอย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_BLUNT_PHARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>ยืนยันกรณีของการบาดเจ็บที่คอหอย (Pharyngeal Trauma)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_BLUNT_PHARYNX_LACERATION</LocID>                 
+		 <Text>ยืนยันแผลทะลุที่คอหอย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_BLUNT_PHARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>ยืนยันกรณีของแผลทะลุที่คอหอย (Pharyngeal Penetration)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_COLLAPSED_TRACHEA</LocID>                 
+		 <Text>หลอดลมยุบตัว</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_COLLAPSED_TRACHEA_DESCRIPTION</LocID>     
+		 <Text>หลอดลมของผู้ป่วยยุบตัวและต้องการการผ่าตัดด่วน</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_CHRONIC_LARYNGITIS</LocID>                 
+		 <Text>การอักเสบเรื้อรังของกล่องเสียง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_CHRONIC_LARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>กล่องเสียง (เส้นเสียง) ของผู้ป่วยอักเสบมานานกว่า 3 เดือน</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_CSA_FINDINGS</LocID>                 
+		 <Text>พบภาวะหยุดหายใจขณะหลับจากสมองส่วนกลาง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_CSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>Polypsomnography เปิดเผยการค้นพบภาวะหยุดหายใจขณะหลับจากสมองส่วนกลาง (Central Sleep Apnea) ในผู้ป่วย</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_VC_EDEMA</LocID>                 
+		 <Text>เส้นเสียงบวมน้ำ</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_VC_EDEMA_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยมีการสะสมของของเหลวในกล่องเสียง (เส้นเสียง)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_VC_OVERUSE</LocID>                 
+		 <Text>ใช้เส้นเสียงมากเกินไป</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_VC_OVERUSE_DESCRIPTION</LocID>     
+		 <Text>เส้นเสียงของผู้ป่วยถูกใช้งานหนักและผิดวิธี ทำให้เกิดความเครียดของเส้นเสียง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_CHRONIC_TONSILITIS</LocID>                 
+		 <Text>ทอนซิลอักเสบเรื้อรัง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_CRP_JM_CHRONIC_TONSILITIS_DESCRIPTION</LocID>     
+		 <Text>ผู้ป่วยประสบกับการติดเชื้อซ้ำซ้อนหรือการติดเชื้อเรื้อรังของต่อมทอนซิล</Text>  
+		</GameDBLocalizedString>
+		
+	  <GameDBLocalizedString>      
+		<LocID>SYM_JM_LARGE_ARTERIES_DAMAGED</LocID>                    
+		<Text>หลอดเลือดแดงใหญ่เสียหาย</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_LARGE_ARTERIES_DAMAGED_DESCRIPTION</LocID>        
+		<Text>หลอดเลือดแดงใหญ่บางส่วนเสียหายและอาจทำให้เกิดภาวะแทรกซ้อนที่คุกคามชีวิตได้</Text>  
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_FOREIGN_OBJECT_PRESENT</LocID>                    
+		<Text>มีสิ่งแปลกปลอมอยู่</Text>  
+		</GameDBLocalizedString>
+        
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_FOREIGN_OBJECT_PRESENT_DESCRIPTION</LocID>        
+		<Text>สิ่งแปลกปลอมหรือชิ้นส่วนของมันยังคงอยู่ในบาดแผลและอาจนำไปสู่ภาวะแทรกซ้อนร้ายแรง</Text>  
+		</GameDBLocalizedString>
+        
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_LUNGS_PERFORATED</LocID>                          
+		<Text>ปอดทะลุ</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		<LocID>SYM_JM_LUNGS_PERFORATED_DESCRIPTION</LocID>              
+		<Text>การทะลุของเยื่อหุ้มปอดและเนื้อปอด</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_BLISTERS</LocID>                                  
+		<Text>ตุ่มพอง</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_BLISTERS_DESCRIPTION</LocID>                      
+		<Text>ถุงน้ำเล็กๆ ในช่องว่างระหว่างผิวหนังชั้นบน (หนังกำพร้า) และชั้นล่าง มักเกิดจากผิวหนังถูกทำลายจากการเสียดสีหรือความร้อน</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DESQUAMATION</LocID>  
+		<Text>ผิวหนังลอก (Desquamation)</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DESQUAMATION_DESCRIPTION</LocID> 
+		<Text>หรือเรียกว่าการลอกของผิวหนัง คือการหลุดลอกของผิวหนังชั้นนอกสุด</Text>
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DARK_SKIN</LocID>           
+		<Text>ผิวคล้ำ</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_DARK_SKIN_DESCRIPTION</LocID>           
+		<Text>สีผิวเข้มขึ้นผิดปกติ</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_NECROSIS</LocID>                        
+		<Text>เนื้อตาย (Necrosis)</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_NECROSIS_DESCRIPTION</LocID>  
+		<Text>การตายก่อนเวลาอันควรของเนื้อเยื่อ เกิดขึ้นเมื่อเลือดไหลเวียนไปเลี้ยงเนื้อเยื่อไม่เพียงพอ อาจเกิดจากการบาดเจ็บ รังสี หรือสารเคมี ภาวะเนื้อตายไม่สามารถย้อนกลับได้</Text> 
+		</GameDBLocalizedString>
+		
+        
+		<GameDBLocalizedString>
+		<LocID>SYM_JM_GUNSHOT_WOUND</LocID>                            
+		<Text>แผลถูกยิง</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		<LocID>SYM_JM_GUNSHOT_WOUND_DESCRIPTION</LocID>
+		<Text>แผลทางเข้าหรือแผลทางเข้าและออกที่เกิดจากกระสุนปืน</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BALLISTIC_WOUND</LocID>  
+		<Text>แผลจากขีปนาวุธ</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BALLISTIC_WOUND_DESCRIPTION</LocID> 
+		<Text>แผลทางเข้าและออกหรือแผลทางเข้าที่เกิดจากวัตถุพุ่งชน</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_STAB_WOUND</LocID>                         
+		<Text>แผลถูกแทง</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_STAB_WOUND_DESCRIPTION</LocID>      
+		<Text>บาดแผลที่เกิดจากการแทง</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_PENETRATING_WOUND</LocID>    
+		<Text>แผลเจาะทะลุ</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_PENETRATING_WOUND_DESCRIPTION</LocID>      
+		<Text>บาดแผลที่เกิดจากการเจาะทะลุของสิ่งแปลกปลอม</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_BLAST_WOUND</LocID>  
+		<Text>แผลจากระเบิด</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BLAST_WOUND_DESCRIPTION</LocID> 
+		<Text>บาดแผลที่เกิดจากการระเบิด</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BURN_WOUND</LocID>     
+		<Text>แผลไฟไหม้</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_BURN_WOUND_DESCRIPTION</LocID>   
+		<Text>แผลไหม้ที่เกิดจากความร้อน ความเย็น ไฟฟ้า สารเคมี การเสียดสี หรือรังสี ส่งผลต่อผิวหนังหรือเนื้อเยื่ออื่นๆ</Text>
+		</GameDBLocalizedString>
+
+		
+	 <GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COXSACK</LocID>                 
+		 <Text>พบเชื้อไวรัสค็อกซากี A16</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COXSACK_DESCRIPTION</LocID>     
+		 <Text>Coxsackieviruses เป็นกลุ่ม Enteroviruses ที่เกี่ยวข้องซึ่งมักทำให้เกิดโรคมือ เท้า ปาก ไม่มีการรักษาเฉพาะสำหรับไวรัสนี้ ทำได้เพียงรอจนกว่าการติดเชื้อจะหายไป</Text>  
+		</GameDBLocalizedString>	
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_STAPHY</LocID>           
+		 <Text>พบเชื้อ Streptococcus pyogenes</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>        
+		 <LocID>SYM_CRP_JM_STAPHY_DESCRIPTION</LocID>     
+		 <Text>Streptococcus pyogenes หรือ Group A streptococcus (GAS) เป็นแบคทีเรีย Gram-positive coccus ที่ทำให้เกิดการติดเชื้อมากมายในมนุษย์ รวมถึงคอหอยอักเสบ ทอนซิลอักเสบ และไข้ดำแดง</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_C_DIPHTHERIAE</LocID>                 
+		 <Text>พบเชื้อ C. Diphtheriae</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_C_DIPHTHERIAE_DESCRIPTION</LocID>     
+		 <Text>พบเชื้อ C. Diphtheriae (เชื้อก่อโรคคอตีบ) ในผู้ป่วย</Text>  
+		</GameDBLocalizedString>
+		
+	 <GameDBLocalizedString>  
+		 <LocID>SYM_JM_ACID_REFLUX</LocID>                 
+		 <Text>กรดไหลย้อน</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_ACID_REFLUX_DESCRIPTION</LocID>     
+		 <Text>Heartburn คือความรู้สึกแสบร้อนในหน้าอกหรือคอ เกิดขึ้นเมื่อกรดในกระเพาะอาหารไหลย้อนกลับเข้าไปในหลอดอาหาร รักษาได้ด้วยยาลดกรดหรือ Proton pump inhibitors</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERACIDITY</LocID>                 
+		 <Text>ภาวะกรดเกิน</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERACIDITY_DESCRIPTION</LocID>     
+		 <Text>Hyperacidity คือภาวะที่กระเพาะอาหารหลั่งกรดออกมามากเกินไป</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_GERD_SUSPECTED</LocID>                 
+		 <Text>สงสัยโรคกรดไหลย้อน</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_GERD_SUSPECTED_DESCRIPTION</LocID>     
+		 <Text>แพทย์ได้ประเมินอาการทั้งหมดของผู้ป่วยและสรุปว่าผู้ป่วยเป็นโรคกรดไหลย้อน (GERD)</Text>  
+		</GameDBLocalizedString>
+		
+     </LocalizedStrings>
+	</GameDBStringTable>
+</Database>

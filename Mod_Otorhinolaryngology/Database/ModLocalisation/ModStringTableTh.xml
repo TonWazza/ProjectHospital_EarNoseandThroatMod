@@ -1,0 +1,22 @@
+<Database>
+	<GameDBStringTable ID="LOC_TH_ADDON_MOD_OTORHINOLARYNGOLOGY">
+	<LanguageCode>th</LanguageCode>
+	<LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+	<Contributors>
+	<Name>TonWazza</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		
+	<GameDBLocalizedString>      
+	<LocID>ADDON_MOD_OTORHINOLARYNGOLOGY</LocID>                       	
+	<Text>โสตศอนาสิกวิทยา (หู คอ จมูก)</Text>  
+	</GameDBLocalizedString>
+	
+
+	
+
+
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,299 @@
+<Database>
+
+<GameDBStringTable ID="LOC_TH_ADDON_OTOR_BUILDING_MODE">
+<LanguageCode>th</LanguageCode>
+<LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+<Contributors>
+<Name>TonWazza</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE</LocID>                          	
+		<Text>ห้องตรวจโสตศอนาสิก</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>              	
+		<Text>ห้องตรวจแพทย์เฉพาะทางด้านหู คอ และจมูก ความต้องการบุคลากร:\n1x แพทย์</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE</LocID>                               
+		<Text>หน่วยวินิจฉัยโรค</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>                   
+		<Text>หน่วยวินิจฉัยโรคประจำแผนกโสตศอนาสิกวิทยา ให้บริการการตรวจและรักษาสำหรับผู้ป่วยใน \n\nความต้องการบุคลากรขั้นต่ำ: \n1x แพทย์ \n(บุคลากรประจำอยู่ในห้องพักแพทย์เวร)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR</LocID>                     
+		<Text>หน่วยอัลตราซาวนด์</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>         
+		<Text>หน่วยอัลตราซาวนด์ให้บริการการตรวจและรักษาด้วยคลื่นเสียงความถี่สูง \n\nความต้องการบุคลากรขั้นต่ำ: \n1x นักรังสีเทคนิค - USG</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_SLEEP_LAB</LocID>                               
+		<Text>ห้องปฏิบัติการการนอนหลับ</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_SLEEP_LAB_DESC</LocID>                   
+		<Text>ห้องปฏิบัติการการนอนหลับ (Sleep Lab) ประจำแผนกโสตศอนาสิกวิทยา ให้บริการตรวจการนอนหลับสำหรับผู้ป่วยที่อาจมีภาวะหยุดหายใจขณะหลับ \n\nความต้องการบุคลากรขั้นต่ำ: \n1x แพทย์ \n(บุคลากรประจำอยู่ในห้องพักแพทย์เวร)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR</LocID>                               
+		<Text>หน่วยตรวจการได้ยิน</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR_DESC</LocID>                   
+		<Text>หน่วยตรวจการได้ยินประจำแผนกโสตศอนาสิกวิทยา ให้บริการตรวจวัดระดับการได้ยิน (Audiograms) สำหรับผู้ป่วยในที่อาจมีภาวะสูญเสียการได้ยิน \n\nความต้องการบุคลากรขั้นต่ำ: \n1x นักรังสีเทคนิค - USG</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_LAB</LocID>                               
+		<Text>ห้องปฏิบัติการหู คอ จมูก</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_LAB_DESC</LocID>                   
+		<Text>ห้องปฏิบัติการหู คอ จมูก ประจำแผนกโสตศอนาสิกวิทยา ให้บริการการตรวจทางห้องปฏิบัติการพิเศษและขั้นสูงสำหรับโรคเฉพาะทางที่ยากต่อการวินิจฉัยด้วยการตรวจทางห้องปฏิบัติการทั่วไป \n\nความต้องการบุคลากรขั้นต่ำ: \n1x นักเทคนิคการแพทย์ - ชีวเคมี</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_ENDOSCOPY_UNIT</LocID>                               
+		<Text>หน่วยส่องกล้องหู คอ จมูก</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_ENDOSCOPY_UNIT_DESC</LocID>                   
+		<Text>หน่วยส่องกล้องหู คอ จมูก ประจำแผนกโสตศอนาสิกวิทยา มีห้องพิเศษสำหรับทำหัตถการส่องกล้องและตัดชิ้นเนื้อขั้นสูงเพื่อตรวจสอบเนื้องอกหรือความผิดปกติภายในหู จมูก หรือคอของผู้ป่วย \n\nความต้องการบุคลากรขั้นต่ำ: \n1x นักรังสีเทคนิค - USG</Text>
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT</LocID>                       	
+	<Text>ป้ายแผนกโสตศอนาสิก</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT_DESCRIPTION</LocID>                       	
+	<Text>ป้ายติดผนัง</Text>  
+	</GameDBLocalizedString>
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO</LocID>                       	
+	<Text>ต้นไผ่</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO_DESC</LocID>                       	
+	<Text>ต้นไม้ตกแต่ง </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER</LocID>                       	
+	<Text>โปสเตอร์ - COVID-19</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER_DESC</LocID>                       	
+	<Text>ของตกแต่ง </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER</LocID>                       	
+	<Text>โปสเตอร์ - คออักเสบ</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER_DESC</LocID>                       	
+	<Text>ของตกแต่ง</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF</LocID>                       	
+	<Text>ชั้นวางของว่างเปล่า</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF_DESC</LocID>                       	
+	<Text>ชั้นวางของตกแต่งแบบว่างเปล่า</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF</LocID>                       	
+	<Text>ชั้นวางยา</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF_DESC</LocID>                       	
+	<Text>ชั้นวางของตกแต่งพร้อมยา</Text>  
+	</GameDBLocalizedString>
+	
+
+	<GameDBLocalizedString>      
+	<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH</LocID>                       	
+	<Text>เครื่องตรวจการนอนหลับ (Polysomnograph)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH_DESC</LocID>                       	
+	<Text>เครื่อง Polysomnograph เป็นรูปแบบหนึ่งของการบันทึกข้อมูลการนอนหลับ ใช้เพื่อบันทึกตัวแปรทางสรีรวิทยาต่างๆ ในผู้ป่วยที่กำลังนอนหลับ ซึ่งรวมถึงอัตราการเต้นของหัวใจ (ECG), ลักษณะการหายใจ, การทำงานของสมอง (EEG) และกิจกรรมของกล้ามเนื้อ (EMG)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</LocID>                       	
+	<Text>ห้องตรวจโสตศอนาสิก</Text>  
+	</GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE_ABBR</LocID>                       	
+	<Text>ห้องตรวจโสตศอนาสิก</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_MODERN_ABBR</LocID>                       	
+	<Text>ห้องตรวจโสตศอนาสิกแบบทันสมัย</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_SMALL_ABBR</LocID>                       	
+	<Text>หน่วยตรวจการได้ยิน</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_LARGE_ABBR</LocID>                       	
+	<Text>หน่วยตรวจการได้ยิน</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_SMALL_ABBR</LocID>                       	
+	<Text>หน่วยวินิจฉัยโรค</Text>  
+	</GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_LARGE_ABBR</LocID>                       	
+	<Text>หน่วยวินิจฉัยโรค</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_MODERN_ABBR</LocID>                       	
+	<Text>หน่วยวินิจฉัยโรคแบบทันสมัย</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_RESTROOM_SMALL_ABBR</LocID>                       	
+	<Text>ห้องน้ำ</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_RESTROOM_ABBR</LocID>                       	
+	<Text>ห้องน้ำ</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_COMMON_ROOM_ABBR</LocID>                       	
+	<Text>ห้องพักผ่อนรวม</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_CLEANING_CLOSET_ABBR</LocID>                       	
+	<Text>ห้องเก็บอุปกรณ์ทำความสะอาด</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_SMALL_OT_ABBR</LocID>                       	
+	<Text>ห้องพักแพทย์เวร</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_LARGE_OT_ABBR</LocID>                       	
+	<Text>ห้องพักแพทย์เวร</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_NURSES_STATION_SMALL_OT_ABBR</LocID>                       	
+	<Text>เคาน์เตอร์พยาบาล</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_NURSES_STATION_LARGE_OT_ABBR</LocID>                       	
+	<Text>เคาน์เตอร์พยาบาล</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_SMALL_ABBR</LocID>                       	
+	<Text>หอผู้ป่วยวิกฤต (HDU)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_LARGE_ABBR</LocID>                       	
+	<Text>หอผู้ป่วยวิกฤต (HDU)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_SMALL_ABBR</LocID>                       	
+	<Text>หอผู้ป่วยสามัญ</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_LARGE_ABBR</LocID>                       	
+	<Text>หอผู้ป่วยสามัญ</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_SONOGRAPHY_UNIT_OT_ABBR</LocID>                       	
+	<Text>หน่วยอัลตราซาวนด์</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_SLEEP_LAB_OT_ABBR</LocID>                       	
+	<Text>ห้องปฏิบัติการการนอนหลับ</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>PREFAB_ROOM_OPERATING_THEATRE_OT_ABBR</LocID>                       	
+	<Text>ห้องผ่าตัด</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>PREFAB_ROOM_LOUNGE_OT_ABBR</LocID>                       	
+	<Text>ห้องพักผ่อน</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_LAB_SMALL_ABBR</LocID>                       	
+	<Text>ห้องแล็บ หู คอ จมูก</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_LAB_ABBR</LocID>                       	
+	<Text>ห้องแล็บ หู คอ จมูก</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_ENDO_SMALL_ABBR</LocID>                       	
+	<Text>ห้องส่องกล้อง หู คอ จมูก</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_ENDO_ABBR</LocID>                       	
+	<Text>ห้องส่องกล้อง หู คอ จมูก</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TOOLTIP_BUILDING_PREFAB_OTORHINOLARYNGOLOGY</LocID>                       	
+	<Text>โสตศอนาสิกวิทยา (หู คอ จมูก)</Text>  
+	</GameDBLocalizedString>
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

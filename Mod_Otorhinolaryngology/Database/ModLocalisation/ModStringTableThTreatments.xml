@@ -1,0 +1,130 @@
+<Database>
+	<GameDBStringTable ID="LOC_TH_ADDON_OTOR_TREATMENTS">
+	<LanguageCode>th</LanguageCode>
+	<LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+	<Contributors>
+	<Name>TonWazza</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_CDLS</LocID>                                    	
+	<Text>การผ่าตัดด้วยเลเซอร์คาร์บอนไดออกไซด์</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_CDLS_DESCRIPTION</LocID>                        	
+	<Text>เลเซอร์คาร์บอนไดออกไซด์ (CO2 laser) เป็นหนึ่งในเลเซอร์ก๊าซรุ่นแรกๆ และยังคงมีประโยชน์มากที่สุด เป็นเลเซอร์คลื่นต่อเนื่องที่มีกำลังสูงและมีประสิทธิภาพ</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     <LocID>SURG_OTOR_ARHN</LocID>                                    	
+	<Text>ศัลยกรรมเสริมจมูก (Augmentation Rhinoplasty)</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <LocID>SURG_OTOR_ARHN_DESCRIPTION</LocID>                        	
+	<Text>การทำศัลยกรรมจมูกอาจต้องมีการเพิ่มวัสดุเพื่อเสริมจมูก จำเป็นสำหรับทั้งข้อบ่งชี้ทางความงามและการใช้งาน เช่น การให้การสนับสนุนโครงสร้างสำหรับพื้นที่ที่ขาดวัสดุ หรือเพื่อเพิ่มความโด่งของสันจมูกและปลายจมูก</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>SURG_OTOR_ENDOSCOPIC_CAUTERIZATION</LocID>                    
+	<Text>การจี้ด้วยไฟฟ้าผ่านกล้อง</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+	<LocID>SURG_OTOR_PULMONARY_SURGERY_X</LocID>    
+	<Text>การผ่าตัดปอด</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>SURG_OTOR_PULMONARY_SURGERY_X_DESCRIPTION</LocID>                 
+	<Text>การผ่าตัดปอดคือการผ่าตัดเพื่อซ่อมแซมหรือนำส่วนของเนื้อเยื่อปอดที่เสียหายออก \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกศัลยกรรมอุบัติเหตุ + ICU</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>SURG_OTOR_VASCULAR_SURGERY</LocID>                    
+	<Text>ศัลยกรรมหลอดเลือด</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>   
+	<LocID>SURG_OTOR_VASCULAR_SURGERY_DESCRIPTION</LocID>    
+	<Text>หัตถการศัลยกรรมเพื่อเย็บและซ่อมแซมหลอดเลือดแดงที่เสียหาย \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกศัลยกรรมอุบัติเหตุ + ICU</Text>
+	</GameDBLocalizedString>
+	
+   <GameDBLocalizedString>     
+	<LocID>TRT_JM_CHEWING_GUM_OR_YAWN</LocID>                        	
+	<Text>เคี้ยวหมากฝรั่งและหาว</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CHEWING_GUM_OR_YAWN_DESC</LocID>                                    	
+	<Text>การเคี้ยวหมากฝรั่งและการหาวช่วยเปิดท่อ Eustachian เพื่อลดความดันภายในหู</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_ANTACIDS</LocID>                        	
+	<Text>ยาลดกรด</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_ANTACIDS_DESC</LocID>                                    	
+	<Text>ยาลดกรดเป็นสารที่ทำให้กรดในกระเพาะอาหารเป็นกลาง ใช้เพื่อบรรเทาอาการแสบร้อนกลางอก อาหารไม่ย่อย หรือกรดไหลย้อน</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      <LocID>TRT_JM_CDLS</LocID>                        	
+	<Text>เลเซอร์คาร์บอนไดออกไซด์</Text>  
+	</GameDBLocalizedString>
+	
+   <GameDBLocalizedString>     
+	<LocID>TRT_JM_CONCETRATED_OXYGEN</LocID>       
+	<Text>ออกซิเจนเข้มข้น</Text> 
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>    
+	<LocID>TRT_JM_CONCETRATED_OXYGEN_DESCRIPTION</LocID>            
+	<Text>การบำบัดโดยการหายใจเอาออกซิเจนเข้มข้นเข้าไป \n\nห้องที่ต้องการ: ห้องตรวจ/หน่วยวินิจฉัย / หน่วยแผลไฟไหม้แผนกศัลยกรรมอุบัติเหตุ / ICU / ศูนย์อุบัติเหตุฉุกเฉิน</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>   
+	<LocID>TRT_JM_PROTECTIVE_DRESSING</LocID>                         
+    <Text>การทำแผลป้องกัน</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>   
+	<LocID>TRT_JM_PROTECTIVE_DRESSING_DESCRIPTION</LocID>        
+	<Text>การพันผ้าพันแผลป้องกัน \n\nห้องที่ต้องการ: ห้องตรวจ/หน่วยวินิจฉัย / หน่วยแผลไฟไหม้แผนกศัลยกรรมอุบัติเหตุ / ICU / ศูนย์อุบัติเหตุฉุกเฉิน</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>  
+    <LocID>TRT_JM_DEBRIDEMENT</LocID>               
+	<Text>การตัดแต่งแผล (Debridement)</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>    
+	<LocID>TRT_JM_DEBRIDEMENT_DESCRIPTION</LocID>             
+	<Text>การกำจัดเนื้อเยื่อที่ตายแล้วทางการแพทย์ \n\nห้องที่ต้องการ: ห้องตรวจ/หน่วยวินิจฉัย / หน่วยแผลไฟไหม้แผนกศัลยกรรมอุบัติเหตุ / ICU / ศูนย์อุบัติเหตุฉุกเฉิน</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>    
+	<LocID>TRT_JM_BURN_MANAGEMENT</LocID>          
+	<Text>การจัดการแผลไฟไหม้</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>    
+	<LocID>TRT_JM_BURN_MANAGEMENT_DESCRIPTION</LocID>     
+	<Text>หัตถการทางการแพทย์เพื่อรักษาแผลไฟไหม้ประเภทต่างๆ \n\nห้องที่ต้องการ: ห้องตรวจ/หน่วยวินิจฉัย / หน่วยแผลไฟไหม้แผนกศัลยกรรมอุบัติเหตุ / ICU / ศูนย์อุบัติเหตุฉุกเฉิน</Text>
+	</GameDBLocalizedString>
+	
+  <GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES</LocID>                        	
+	<Text>ยาแก้แพ้ทางหลอดเลือดดำ</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES_DESC</LocID>                                    	
+	<Text>การให้ยาแก้แพ้เสริมทางหลอดเลือดดำ (IV) \n\nห้องที่ต้องการ: ห้องตรวจ / หอผู้ป่วย / หน่วยใดก็ได้</Text>  
+	</GameDBLocalizedString>
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
